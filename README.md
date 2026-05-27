@@ -11,6 +11,11 @@
 
 Notes and quick-reference guides for [Claude Code](https://code.claude.com) features I'm exploring.
 
+### Getting Started
+| Doc | What it covers |
+|-----|---------------|
+| [CLI_INSTALLATION.md](./CLI_INSTALLATION.md) | Install, update, authenticate, and configure Claude Code locally |
+
 ### Working Remotely
 | Doc | What it covers |
 |-----|---------------|
